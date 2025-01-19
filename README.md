@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @IckaeEtu
 
-- 👀 I’m interested in cars
+- 👀 I’m interested in cars and watches
 
 - 🌱 I’m currently learning IT in IUT Orléans
 
