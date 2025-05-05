@@ -42,3 +42,6 @@
 </p>
 
 <h3 align="left">Projects:</h3>
+<ul>
+  <li><a href="https://github.com/MickaelRiego/Monster_Hunter_JS">Monster Hunter JS</a></li>
+</ul>
