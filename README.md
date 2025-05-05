@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mickael Riego</h1>
 <h3 align="center">IT Student | Passionate about Development and Watches</h3>
 
-- 👋 Hi, I’m @MickaelRiego
-- 👀 Interested in web development, new technologies, watches, and cars.
-- 🌱 Currently studying IT at IUT Orléans, where I'm learning about application development.
-- 🥅 My goals: To become a Data or AI Engineer.
-- 📫 How to reach me: **mickael.riego@etu.univ-orleans.fr**
+- Hi, I’m @MickaelRiego
+- Interested in web development, new technologies, watches, and cars.
+- Currently studying IT at IUT Orléans, where I'm learning about application development.
+- My goals: To become a Data or AI Engineer.
+- How to reach me: **mickael.riego@etu.univ-orleans.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
