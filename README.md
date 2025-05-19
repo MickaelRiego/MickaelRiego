@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mickael Riego</h1>
 <h3 align="center">IT Student | Passionate about Development and Watches</h3>
+<div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
 
 - Hi, I’m @MickaelRiego
 - Interested in web development, new technologies, watches, and cars.
