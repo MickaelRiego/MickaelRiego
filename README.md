@@ -15,7 +15,7 @@
 
 <h3 align="left">Skills:</h3>
 <p align="left">
-  <b>Programming Languages:</b> Python, Java, PHP, JavaScript
+  <b>Programming Languages:</b> C, Python, Java, PHP, JavaScript
   <br>
   <b>Web Technologies:</b> HTML, CSS, Bootstrap, Flask, Vue.JS
   <br>
