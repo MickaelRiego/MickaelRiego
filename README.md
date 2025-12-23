@@ -17,7 +17,7 @@
 
 ---
 
-### 🏭 About Me
+### About Me
 
 I am an IT Student at **IUT Orléans**, aiming to specialize in **Industrial Computing and Embedded Solutions**.
 
@@ -29,18 +29,17 @@ Passionate about how code drives physical systems, I want to work where software
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
-#### 🔩 Core & Industrial Languages
+#### Core & Industrial Languages
 *The backbone of industrial performance.*
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-#### 🖥️ Systems, Data & Tools
+#### Systems, Data & Tools
 *Environment control and data management.*
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
