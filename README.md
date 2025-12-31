@@ -61,5 +61,5 @@ Passionate about how code drives physical systems, I want to work where software
 
 | Project | Focus | Tech Stack |
 | :--- | :--- | :--- |
-| **Bare-Metal Weather Station (Working on)** | Custom driver implementation (DHT11, E-Ink) on ESP32 without external libraries (Register level). | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white) |
+| [**Bare-Metal Weather Station (Working on)**](https://github.com/MickaelRiego/weather-station) | Custom driver implementation (DHT11, E-Ink) on ESP32 without external libraries (Register level). | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white) |
 | **Monster Hunter JS** | Logic & Game Loop (Simulates real-time events) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
