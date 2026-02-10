@@ -29,7 +29,7 @@ Passionate about how code drives physical systems, I want to work where software
 
 ---
 
-### Technical Arsenal
+### Technical Skills
 
 #### Core & Industrial Languages
 *The backbone of industrial performance.*
@@ -57,7 +57,7 @@ Passionate about how code drives physical systems, I want to work where software
 
 ---
 
-### 🚀 Projects
+### Projects
 
 | Project | Focus | Tech Stack |
 | :--- | :--- | :--- |
